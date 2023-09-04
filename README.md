@@ -15,9 +15,9 @@ The dataset used for this project is https://public.tableau.com/app/sample-data/
 The Tableau dashboard offers the following features:
 Interactive visualizations for:
 1) Top 5 Sub Industries with percentage of job change.
-2) Comparison of Jobs in 2011 and 2014 per city.
-3) Industries With Less Jobs in employment statistics in 2011.
-4) Highlight Cities with total job change.
+2) Highlight Cities with total job change.
+3) Comparison of Jobs in 2011 and 2014 per city.
+4) Industries With Less Jobs in employment statistics in 2011.
 
 the link and example of the data visualization dashboard are as follows:
 https://public.tableau.com/views/BritishjobsDashboard_16935122647880/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
